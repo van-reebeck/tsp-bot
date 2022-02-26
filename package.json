@@ -1,5 +1,5 @@
 {
-  "name": "bottus",
+  "name": "tsp",
   "version": "1.1.4",
   "description": "A whatsapp User bot",
   "main": "./whatsAsena/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyfe00011/whatsapp-bot.git"
+    "url": "git+https://github.com/van-reebeck/tsp-bot.git"
   },
   "keywords": [
     "whatsapp",
